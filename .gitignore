@@ -1,0 +1,14 @@
+.idea
+*initial.py
+
+venv/*
+
+src/db.sqlite3
+
+src/config/__pycache__/*
+
+src/albums/__pycache__/*
+src/albums/migrations/*
+
+src/api/__pycache__/*
+src/api/migrations/*
